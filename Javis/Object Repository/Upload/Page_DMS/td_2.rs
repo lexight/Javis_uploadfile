@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2</name>
+   <tag></tag>
+   <elementGuidId>06e19a28-0699-47ea-842a-bd5be83da517</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rdtDay rdtToday</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/span[@class=&quot;modals&quot;]/div[@class=&quot;fileUpload&quot;]/div[@class=&quot;fuModalContainer&quot;]/div[@class=&quot;modalBox modalBox--fm&quot;]/div[@class=&quot;content--aa&quot;]/div[@class=&quot;uploadContentBox&quot;]/ul[1]/li[@class=&quot;uploadBoxContainer&quot;]/div[@class=&quot;flex_1&quot;]/div[@class=&quot;tagsBoxContainer&quot;]/div[@class=&quot;tagBoxContainer&quot;]/div[@class=&quot;value--fm&quot;]/div[@class=&quot;rdt period--comp rdtOpen&quot;]/div[@class=&quot;rdtPicker&quot;]/div[@class=&quot;rdtDays&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;rdtDay rdtToday&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

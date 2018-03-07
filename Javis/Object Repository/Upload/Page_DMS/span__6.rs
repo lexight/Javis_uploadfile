@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__6</name>
+   <tag></tag>
+   <elementGuidId>d10f7d98-93f1-47ef-948c-0b28863e8763</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu__list-label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>問題分類</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/span[@class=&quot;modals&quot;]/div[@class=&quot;fileUpload&quot;]/div[@class=&quot;fuModalContainer&quot;]/div[@class=&quot;modalBox modalBox--fm&quot;]/div[@class=&quot;content--aa&quot;]/div[@class=&quot;uploadContentBox&quot;]/ul[1]/li[@class=&quot;uploadBoxContainer&quot;]/div[@class=&quot;flex_1&quot;]/div[@class=&quot;tagsBoxContainer&quot;]/div[@class=&quot;dropAddMenu&quot;]/div[@class=&quot;dropdown-menu dropdown-menu--active&quot;]/div[@class=&quot;dropdown-menu__opts dropdown-menu__opts--show&quot;]/ul[@class=&quot;dropdown-menu__list&quot;]/li[@class=&quot;dropdown-menu__list-item&quot;]/span[@class=&quot;dropdown-menu__list-label&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

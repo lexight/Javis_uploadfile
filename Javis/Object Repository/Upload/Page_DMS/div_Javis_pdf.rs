@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Javis_pdf</name>
+   <tag></tag>
+   <elementGuidId>7221aad9-1360-42ae-8844-aebfc3e45574</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cardList-cardBox__content-header-title-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Javis_pdf</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Javis_pdf</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[2]/span[@class=&quot;content doc-management&quot;]/div[@class=&quot;doc-management__result&quot;]/div[@class=&quot;container&quot;]/main[@class=&quot;doc-management__result-main&quot;]/div[@class=&quot;search-docs&quot;]/div[@class=&quot;search-docs__body&quot;]/div[@class=&quot;search-docs__rows&quot;]/div[@class=&quot;cardList&quot;]/div[@class=&quot;cardList&quot;]/div[@class=&quot;cardList-cardBox&quot;]/div[@class=&quot;cardList-cardBox__content&quot;]/div[@class=&quot;cardList-cardBox__content-header&quot;]/div[@class=&quot;cardList-cardBox__content-header-title&quot;]/div[@class=&quot;cardList-cardBox__content-header-title-content&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

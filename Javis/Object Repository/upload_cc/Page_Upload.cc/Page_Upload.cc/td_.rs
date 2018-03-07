@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_</name>
+   <tag></tag>
+   <elementGuidId>e0c551fa-c02e-4b37-bbb7-b3f9b61fc959</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>&quot;//input[@type='file']&quot;</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[(text() = '點擊選擇圖片或拖曳圖片到這裡' or . = '點擊選擇圖片或拖曳圖片到這裡')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>點擊選擇圖片或拖曳圖片到這裡</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;side-right&quot;]/div[@class=&quot;side-right-main-wrapper&quot;]/div[@class=&quot;side-right-main-wrapper-content&quot;]/div[@class=&quot;side-right-main&quot;]/table[1]/tbody[1]/tr[1]/td[1]</value>
+   </webElementProperties>
+</WebElementEntity>

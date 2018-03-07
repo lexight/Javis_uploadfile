@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__3</name>
+   <tag></tag>
+   <elementGuidId>ad68e588-9587-4225-987b-2faa167ac05c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/span[@class=&quot;modals&quot;]/div[@class=&quot;fileUpload&quot;]/div[@class=&quot;fuSelectProject&quot;]/div[1]/div[@class=&quot;contentbox&quot;]/div[@class=&quot;contentbox--body&quot;]/div[@class=&quot;bodyBox&quot;]/div[@class=&quot;itemList wd2_2&quot;]/div[@class=&quot;body&quot;]/li[@class=&quot;productList&quot;]/div[1]/span[1][count(. | //span[(text() = '出差報告' or . = '出差報告')]) = count(//span[(text() = '出差報告' or . = '出差報告')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>出差報告</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/span[@class=&quot;modals&quot;]/div[@class=&quot;fileUpload&quot;]/div[@class=&quot;fuSelectProject&quot;]/div[1]/div[@class=&quot;contentbox&quot;]/div[@class=&quot;contentbox--body&quot;]/div[@class=&quot;bodyBox&quot;]/div[@class=&quot;itemList wd2_2&quot;]/div[@class=&quot;body&quot;]/li[@class=&quot;productList&quot;]/div[1]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>
